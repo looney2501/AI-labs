@@ -1,0 +1,217 @@
+3687
+[12, 6, 7, 13, 14, 3, 2, 8, 1, 11, 9, 10, 5, 4, 12]
+Network modified: edge (12, 8): old weight=508 new weight433.63125397072497
+Network modified: edge (1, 7): old weight=455 new weight874.7734633034411
+Network modified: edge (2, 9): old weight=311 new weight360.09532251452066
+Network modified: edge (13, 4): old weight=499 new weight622.2620582586027
+Network modified: edge (5, 11): old weight=947 new weight714.6557780362929
+3576
+[5, 6, 12, 4, 3, 8, 1, 10, 9, 11, 7, 13, 2, 14, 5]
+Network modified: edge (2, 7): old weight=507 new weight699.6048338655542
+Network modified: edge (6, 7): old weight=168 new weight154.15786824777538
+Network modified: edge (13, 2): old weight=417 new weight186.49995322472
+Network modified: edge (3, 4): old weight=289 new weight283.9691780786802
+Network modified: edge (6, 14): old weight=239 new weight185.12969361970974
+3989.6578214724955
+[9, 11, 1, 2, 13, 7, 6, 12, 4, 5, 3, 8, 10, 14, 9]
+Network modified: edge (7, 14): old weight=232 new weight440.91329112756097
+Network modified: edge (5, 13): old weight=635 new weight649.1160512307645
+Network modified: edge (4, 5): old weight=491 new weight181.2315001195446
+Network modified: edge (1, 9): old weight=160 new weight77.49773362685885
+Network modified: edge (7, 9): old weight=482 new weight375.6935115824136
+3154.1983650498037
+[14, 8, 1, 9, 11, 10, 6, 12, 7, 13, 2, 3, 4, 5, 14]
+Network modified: edge (8, 4): old weight=664 new weight200.10563694614325
+Network modified: edge (4, 3): old weight=283.9691780786802 new weight612.467812094866
+Network modified: edge (13, 10): old weight=633 new weight707.0132600861374
+Network modified: edge (10, 13): old weight=707.0132600861374 new weight1023.1987983950254
+Network modified: edge (4, 12): old weight=259 new weight455.364016242275
+3153.387055218899
+[12, 6, 7, 13, 2, 8, 1, 9, 11, 10, 5, 4, 14, 3, 12]
+Network modified: edge (14, 5): old weight=636 new weight638.6093923826323
+Network modified: edge (5, 8): old weight=902 new weight337.994288092626
+Network modified: edge (5, 7): old weight=514 new weight290.9199842264254
+Network modified: edge (5, 2): old weight=997 new weight1904.430002113219
+Network modified: edge (10, 11): old weight=318 new weight619.9464640114018
+3200.9976868515787
+[5, 6, 12, 7, 13, 2, 11, 9, 1, 8, 10, 3, 14, 4, 5]
+Network modified: edge (11, 3): old weight=618 new weight298.3590002162227
+Network modified: edge (9, 5): old weight=990 new weight1750.877296923443
+Network modified: edge (11, 5): old weight=714.6557780362929 new weight1365.940713724296
+Network modified: edge (6, 11): old weight=593 new weight1038.9098837426893
+Network modified: edge (14, 1): old weight=398 new weight111.60019028019678
+3675.1327424264364
+[2, 13, 7, 14, 6, 12, 4, 5, 8, 9, 11, 1, 3, 10, 2]
+Network modified: edge (9, 11): old weight=43 new weight88.00035671095458
+Network modified: edge (3, 5): old weight=744 new weight1625.452767846327
+Network modified: edge (2, 4): old weight=664 new weight1253.9828918416872
+Network modified: edge (2, 7): old weight=699.6048338655542 new weight203.62750588877182
+Network modified: edge (6, 8): old weight=522 new weight144.26178318002133
+3677.086691621017
+[8, 6, 12, 7, 2, 1, 9, 11, 13, 14, 3, 4, 5, 10, 8]
+Network modified: edge (14, 5): old weight=638.6093923826323 new weight272.6725030886579
+Network modified: edge (13, 9): old weight=358 new weight303.6639504523043
+Network modified: edge (9, 11): old weight=88.00035671095458 new weight101.4119380545868
+Network modified: edge (8, 4): old weight=200.10563694614325 new weight374.4041080538865
+Network modified: edge (4, 12): old weight=455.364016242275 new weight123.79754259652378
+3564.2138675299875
+[9, 1, 8, 2, 13, 7, 6, 12, 5, 4, 3, 11, 14, 10, 9]
+Network modified: edge (3, 6): old weight=390 new weight864.4321357106388
+Network modified: edge (8, 4): old weight=374.4041080538865 new weight240.60129571471498
+Network modified: edge (9, 4): old weight=804 new weight1361.5043275648093
+Network modified: edge (13, 8): old weight=273 new weight372.6181982535898
+Network modified: edge (13, 2): old weight=186.49995322472 new weight225.31205005745198
+2841.6891494314395
+[10, 1, 14, 3, 11, 9, 2, 13, 12, 6, 7, 5, 4, 8, 10]
+Network modified: edge (9, 11): old weight=101.4119380545868 new weight85.98670220358925
+Network modified: edge (13, 14): old weight=247 new weight90.18105335472491
+Network modified: edge (12, 10): old weight=898 new weight1629.9600569827585
+Network modified: edge (10, 14): old weight=761 new weight318.8593164289904
+Network modified: edge (10, 1): old weight=372 new weight374.6448172651215
+3412.831811409988
+[13, 14, 6, 12, 4, 5, 8, 1, 9, 10, 3, 2, 11, 7, 13]
+Network modified: edge (5, 13): old weight=649.1160512307645 new weight195.29333584213964
+Network modified: edge (13, 8): old weight=372.6181982535898 new weight240.69741194951902
+Network modified: edge (6, 3): old weight=864.4321357106388 new weight940.5696989224084
+Network modified: edge (1, 12): old weight=567 new weight275.6245273619062
+Network modified: edge (8, 6): old weight=144.26178318002133 new weight314.7959878574988
+2695.703478885999
+[6, 12, 4, 5, 7, 2, 1, 14, 13, 3, 11, 9, 10, 8, 6]
+Network modified: edge (12, 8): old weight=433.63125397072497 new weight349.8354535757677
+Network modified: edge (12, 8): old weight=349.8354535757677 new weight763.5939508311627
+Network modified: edge (8, 1): old weight=70 new weight52.59292025918869
+Network modified: edge (5, 8): old weight=337.994288092626 new weight274.6780090637118
+Network modified: edge (5, 11): old weight=1365.940713724296 new weight1070.429115029456
+3340.6908182367265
+[6, 12, 4, 3, 7, 5, 13, 14, 1, 9, 11, 10, 2, 8, 6]
+Network modified: edge (12, 10): old weight=1629.9600569827585 new weight2579.7452356310678
+Network modified: edge (13, 11): old weight=315 new weight379.7350877778937
+Network modified: edge (5, 4): old weight=181.2315001195446 new weight219.69103172733531
+Network modified: edge (7, 2): old weight=203.62750588877182 new weight450.27177893510316
+Network modified: edge (1, 11): old weight=157 new weight348.1207868351315
+4043.097070597689
+[13, 8, 11, 9, 1, 14, 6, 12, 4, 3, 2, 10, 5, 7, 13]
+Network modified: edge (8, 13): old weight=240.69741194951902 new weight398.74635390413573
+Network modified: edge (10, 12): old weight=2579.7452356310678 new weight5397.667107098467
+Network modified: edge (6, 7): old weight=154.15786824777538 new weight221.94611848681
+Network modified: edge (3, 13): old weight=455 new weight910.8295099812128
+Network modified: edge (3, 7): old weight=437 new weight135.72885240236093
+3140.5793500141062
+[12, 6, 4, 14, 13, 2, 3, 11, 9, 1, 10, 8, 5, 7, 12]
+Network modified: edge (8, 13): old weight=398.74635390413573 new weight515.1591278407094
+Network modified: edge (5, 14): old weight=272.6725030886579 new weight485.1785382834461
+Network modified: edge (7, 10): old weight=757 new weight971.7833370474851
+Network modified: edge (6, 7): old weight=221.94611848681 new weight143.37653919190632
+Network modified: edge (5, 2): old weight=1904.430002113219 new weight973.2669180607954
+3205.3224779737657
+[4, 5, 7, 3, 14, 13, 2, 1, 8, 10, 9, 11, 6, 12, 4]
+Network modified: edge (5, 8): old weight=274.6780090637118 new weight213.35163066260378
+Network modified: edge (10, 7): old weight=971.7833370474851 new weight677.9740090785309
+Network modified: edge (13, 7): old weight=124 new weight84.29290639992358
+Network modified: edge (7, 1): old weight=874.7734633034411 new weight677.7737584189209
+Network modified: edge (9, 3): old weight=645 new weight677.4786516475202
+2679.8336490778693
+[4, 14, 13, 7, 6, 12, 3, 2, 1, 10, 9, 11, 8, 5, 4]
+Network modified: edge (7, 5): old weight=290.9199842264254 new weight377.8687458055173
+Network modified: edge (2, 12): old weight=581 new weight418.32209903772724
+Network modified: edge (9, 1): old weight=77.49773362685885 new weight87.71287816936248
+Network modified: edge (8, 3): old weight=491 new weight549.2777475854442
+Network modified: edge (9, 13): old weight=303.6639504523043 new weight153.4937235181345
+2894.5776866540364
+[10, 9, 1, 14, 13, 2, 6, 12, 3, 7, 4, 5, 8, 11, 10]
+Network modified: edge (5, 8): old weight=213.35163066260378 new weight141.83680400320057
+Network modified: edge (7, 10): old weight=677.9740090785309 new weight713.3901168241349
+Network modified: edge (12, 10): old weight=5397.667107098467 new weight3387.971524179722
+Network modified: edge (13, 14): old weight=90.18105335472491 new weight174.30229631039856
+Network modified: edge (3, 11): old weight=298.3590002162227 new weight258.6290540556191
+3023.4623427551837
+[7, 13, 14, 1, 8, 2, 10, 9, 11, 3, 6, 12, 4, 5, 7]
+Network modified: edge (13, 3): old weight=910.8295099812128 new weight2040.9693392653196
+Network modified: edge (13, 1): old weight=342 new weight525.585359787475
+Network modified: edge (7, 11): old weight=439 new weight850.9153083626816
+Network modified: edge (13, 4): old weight=622.2620582586027 new weight325.73874116722516
+Network modified: edge (12, 1): old weight=275.6245273619062 new weight479.7369749627355
+2467.0103798666155
+[4, 6, 12, 13, 7, 3, 14, 10, 2, 11, 9, 1, 8, 5, 4]
+Network modified: edge (14, 11): old weight=464 new weight125.53684189212427
+Network modified: edge (5, 14): old weight=485.1785382834461 new weight1057.4370031618687
+Network modified: edge (2, 8): old weight=197 new weight428.29631824780006
+Network modified: edge (11, 4): old weight=768 new weight525.0748594673213
+Network modified: edge (2, 8): old weight=428.29631824780006 new weight921.9425302349017
+2423.095544568706
+[14, 13, 7, 3, 11, 9, 1, 8, 5, 4, 6, 12, 2, 10, 14]
+Network modified: edge (4, 3): old weight=612.467812094866 new weight884.7634440056983
+Network modified: edge (1, 2): old weight=153 new weight216.78998570263954
+Network modified: edge (6, 8): old weight=314.7959878574988 new weight356.51288568136283
+Network modified: edge (9, 11): old weight=85.98670220358925 new weight33.23869728740817
+Network modified: edge (5, 1): old weight=966 new weight2145.366346726673
+2555.2330966720606
+[5, 13, 14, 11, 9, 1, 10, 2, 3, 7, 6, 12, 4, 8, 5]
+Network modified: edge (13, 4): old weight=325.73874116722516 new weight337.4497789541047
+Network modified: edge (4, 2): old weight=1253.9828918416872 new weight733.6540667839065
+Network modified: edge (5, 8): old weight=141.83680400320057 new weight43.13688086704997
+Network modified: edge (14, 5): old weight=1057.4370031618687 new weight1455.506871890335
+Network modified: edge (14, 4): old weight=310 new weight504.568392046584
+2225.0604160486187
+[10, 14, 13, 6, 12, 4, 5, 8, 1, 9, 11, 2, 3, 7, 10]
+Network modified: edge (14, 1): old weight=111.60019028019678 new weight237.5035570343305
+Network modified: edge (9, 11): old weight=33.23869728740817 new weight72.2926086527343
+Network modified: edge (12, 1): old weight=479.7369749627355 new weight568.5164309143239
+Network modified: edge (8, 5): old weight=43.13688086704997 new weight40.57851608947435
+Network modified: edge (2, 5): old weight=973.2669180607954 new weight463.1580273520157
+2534.0445495728136
+[3, 14, 13, 7, 6, 12, 4, 8, 5, 2, 11, 9, 10, 1, 3]
+Network modified: edge (8, 9): old weight=154 new weight137.22963059661262
+Network modified: edge (6, 11): old weight=1038.9098837426893 new weight413.9567902200291
+Network modified: edge (2, 9): old weight=360.09532251452066 new weight370.7336003976743
+Network modified: edge (3, 4): old weight=884.7634440056983 new weight1237.913075952559
+Network modified: edge (3, 7): old weight=135.72885240236093 new weight204.40825733517855
+2683.0565539504987
+[11, 3, 7, 6, 12, 4, 13, 9, 1, 8, 5, 2, 10, 14, 11]
+Network modified: edge (14, 8): old weight=355 new weight723.8249513048994
+Network modified: edge (13, 14): old weight=174.30229631039856 new weight59.72491031769822
+Network modified: edge (3, 13): old weight=2040.9693392653196 new weight2392.1823874288575
+Network modified: edge (12, 9): old weight=623 new weight658.3191716253721
+Network modified: edge (10, 6): old weight=910 new weight884.2071805910634
+2046.766014993043
+[14, 13, 7, 6, 12, 4, 5, 8, 1, 2, 10, 9, 11, 3, 14]
+Network modified: edge (3, 8): old weight=549.2777475854442 new weight774.9669258058659
+Network modified: edge (6, 1): old weight=581 new weight598.9339793842333
+Network modified: edge (1, 13): old weight=525.585359787475 new weight817.4405781521277
+Network modified: edge (11, 1): old weight=348.1207868351315 new weight235.38945868399242
+Network modified: edge (6, 11): old weight=413.9567902200291 new weight473.82380005599055
+2209.9376686216497
+[3, 14, 13, 7, 12, 6, 4, 5, 8, 11, 9, 1, 10, 2, 3]
+Network modified: edge (3, 9): old weight=677.4786516475202 new weight831.345916379662
+Network modified: edge (8, 12): old weight=763.5939508311627 new weight723.1706503583538
+Network modified: edge (5, 13): old weight=195.29333584213964 new weight234.40901479672502
+Network modified: edge (12, 7): old weight=163 new weight81.28010976430946
+Network modified: edge (3, 4): old weight=1237.913075952559 new weight2267.297345366758
+2911.4300435316563
+[9, 11, 8, 1, 14, 13, 7, 6, 12, 4, 5, 2, 3, 10, 9]
+Network modified: edge (5, 6): old weight=400 new weight134.0050158659469
+Network modified: edge (9, 1): old weight=87.71287816936248 new weight185.30859643754633
+Network modified: edge (1, 6): old weight=598.9339793842333 new weight592.2568952013287
+Network modified: edge (11, 7): old weight=850.9153083626816 new weight1181.2605448395677
+Network modified: edge (2, 1): old weight=216.78998570263954 new weight82.56811386844284
+2100.595153512303
+[3, 14, 13, 7, 6, 12, 4, 5, 8, 1, 2, 9, 11, 10, 3]
+Network modified: edge (9, 2): old weight=370.7336003976743 new weight162.71988326357678
+Network modified: edge (5, 9): old weight=1750.877296923443 new weight913.8817344918806
+Network modified: edge (4, 3): old weight=2267.297345366758 new weight1890.1550339269395
+Network modified: edge (8, 7): old weight=389 new weight232.52923210184204
+Network modified: edge (11, 1): old weight=235.38945868399242 new weight230.7779551566686
+1910.153217612236
+[14, 13, 9, 11, 3, 7, 6, 12, 4, 5, 8, 1, 2, 10, 14]
+Network modified: edge (1, 9): old weight=185.30859643754633 new weight237.9887746822524
+Network modified: edge (6, 9): old weight=634 new weight905.5513201461108
+Network modified: edge (10, 7): old weight=713.3901168241349 new weight762.2616460340475
+Network modified: edge (9, 8): old weight=137.22963059661262 new weight41.96681542771558
+Network modified: edge (10, 1): old weight=374.6448172651215 new weight723.5385499734662
+2906.879038084916
+[3, 14, 13, 9, 11, 10, 2, 1, 6, 12, 4, 5, 8, 7, 3]
+Network modified: edge (14, 4): old weight=504.568392046584 new weight415.87353169505144
+Network modified: edge (14, 11): old weight=125.53684189212427 new weight128.8685641533054
+Network modified: edge (14, 13): old weight=59.72491031769822 new weight126.27348330673325
+Network modified: edge (11, 2): old weight=310 new weight78.63722934919862
+Network modified: edge (9, 1): old weight=237.9887746822524 new weight326.64741791101994
